@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Artiom\\Desktop\\docs\\AdminCommands\\AdminCommands.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Artiom\\Desktop\\docs\\AdminCommands\\AdminCommands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artiom\\Desktop\\docs\\AdminCommands\\AdminCommands.csproj",
+        "projectName": "Economy",
+        "projectPath": "C:\\Users\\Artiom\\Desktop\\docs\\AdminCommands\\AdminCommands.csproj",
+        "packagesPath": "C:\\Users\\Artiom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artiom\\Desktop\\docs\\AdminCommands\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artiom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net40",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net40",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
